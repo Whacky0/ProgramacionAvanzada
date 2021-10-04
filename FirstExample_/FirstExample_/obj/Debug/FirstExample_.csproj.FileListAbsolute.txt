@@ -1,0 +1,13 @@
+D:\Programacion Avanazada\FirstExample_\FirstExample_\bin\Debug\FirstExample_.exe.config
+D:\Programacion Avanazada\FirstExample_\FirstExample_\bin\Debug\FirstExample_.exe
+D:\Programacion Avanazada\FirstExample_\FirstExample_\bin\Debug\FirstExample_.pdb
+D:\Programacion Avanazada\FirstExample_\FirstExample_\bin\Debug\BL.dll
+D:\Programacion Avanazada\FirstExample_\FirstExample_\bin\Debug\BL.pdb
+D:\Programacion Avanazada\FirstExample_\FirstExample_\obj\Debug\FirstExample_.csproj.AssemblyReference.cache
+D:\Programacion Avanazada\FirstExample_\FirstExample_\obj\Debug\FirstExample_.Form1.resources
+D:\Programacion Avanazada\FirstExample_\FirstExample_\obj\Debug\FirstExample_.Properties.Resources.resources
+D:\Programacion Avanazada\FirstExample_\FirstExample_\obj\Debug\FirstExample_.csproj.GenerateResource.cache
+D:\Programacion Avanazada\FirstExample_\FirstExample_\obj\Debug\FirstExample_.csproj.CoreCompileInputs.cache
+D:\Programacion Avanazada\FirstExample_\FirstExample_\obj\Debug\FirstExample_.csproj.CopyComplete
+D:\Programacion Avanazada\FirstExample_\FirstExample_\obj\Debug\FirstExample_.exe
+D:\Programacion Avanazada\FirstExample_\FirstExample_\obj\Debug\FirstExample_.pdb
