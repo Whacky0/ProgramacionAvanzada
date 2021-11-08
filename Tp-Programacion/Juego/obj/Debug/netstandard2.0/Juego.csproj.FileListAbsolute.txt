@@ -1,0 +1,9 @@
+F:\repos\TP-Programacion\Tp-Programacion\Juego\bin\Debug\netstandard2.0\Juego.deps.json
+F:\repos\TP-Programacion\Tp-Programacion\Juego\bin\Debug\netstandard2.0\Juego.dll
+F:\repos\TP-Programacion\Tp-Programacion\Juego\bin\Debug\netstandard2.0\Juego.pdb
+F:\repos\TP-Programacion\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.csprojAssemblyReference.cache
+F:\repos\TP-Programacion\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.AssemblyInfoInputs.cache
+F:\repos\TP-Programacion\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.AssemblyInfo.cs
+F:\repos\TP-Programacion\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.dll
+F:\repos\TP-Programacion\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.pdb
+F:\repos\TP-Programacion\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.csproj.CoreCompileInputs.cache

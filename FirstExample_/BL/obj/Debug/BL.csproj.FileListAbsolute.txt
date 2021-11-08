@@ -1,6 +1,0 @@
-D:\Programacion Avanazada\FirstExample_\BL\bin\Debug\BL.dll
-D:\Programacion Avanazada\FirstExample_\BL\bin\Debug\BL.pdb
-D:\Programacion Avanazada\FirstExample_\BL\obj\Debug\BL.csproj.AssemblyReference.cache
-D:\Programacion Avanazada\FirstExample_\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
-D:\Programacion Avanazada\FirstExample_\BL\obj\Debug\BL.dll
-D:\Programacion Avanazada\FirstExample_\BL\obj\Debug\BL.pdb
