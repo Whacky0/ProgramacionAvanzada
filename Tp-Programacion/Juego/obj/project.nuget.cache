@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Se6TNxRiNzeOVQubPf2YeF38kCX/+GGjZsjkhF5n1yt2vYgawVLmUIi4akPyxEwpPxIg05V2sR9lUTL1Zp94cA==",
+  "dgSpecHash": "8p5dwQ1ftM5pRp/kwhs1HBb//7SuPmWPcpu74vc2UlixGiQz2MMffv7JBxadZPtNOat3aBLR5uJ+DtXTXP5rmQ==",
   "success": true,
-  "projectFilePath": "F:\\repos\\TP-Programacion\\Tp-Programacion\\Juego\\Juego.csproj",
+  "projectFilePath": "F:\\repos\\TP-Programacion\\ProgramacionAvanzada\\Tp-Programacion\\Juego\\Juego.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

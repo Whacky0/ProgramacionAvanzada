@@ -237,11 +237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\TP-Programacion\\Tp-Programacion\\Juego\\Juego.csproj",
+      "projectUniqueName": "F:\\repos\\TP-Programacion\\ProgramacionAvanzada\\Tp-Programacion\\Juego\\Juego.csproj",
       "projectName": "Juego",
-      "projectPath": "F:\\repos\\TP-Programacion\\Tp-Programacion\\Juego\\Juego.csproj",
+      "projectPath": "F:\\repos\\TP-Programacion\\ProgramacionAvanzada\\Tp-Programacion\\Juego\\Juego.csproj",
       "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-      "outputPath": "F:\\repos\\TP-Programacion\\Tp-Programacion\\Juego\\obj\\",
+      "outputPath": "F:\\repos\\TP-Programacion\\ProgramacionAvanzada\\Tp-Programacion\\Juego\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
