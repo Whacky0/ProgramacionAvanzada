@@ -3,18 +3,21 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Juego;
+
 
 namespace Tp_Programacion
 {
     public partial class Form1 : Form
     {
         public List<PictureBox> cards= new List<PictureBox>();
-        const string cardsPath = @"F:\repos\TP-Programacion\TpPA\Tp-Programacion\Tp-Programacion\Cards\";
+        string cardsPath= Directory.GetParent(Directory.GetParent(Directory.GetCurrentDirectory()).ToString()) + "\\Cards\\";
 
         PictureBox IACards = new PictureBox();
         PictureBox playerCards = new PictureBox();
