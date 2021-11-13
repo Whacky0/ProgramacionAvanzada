@@ -18,11 +18,10 @@ namespace Server
             listen.Bind(connect);
             listen.Listen(10);
             conexion = listen.Accept();
-
-
+            listenValues();
         }
 
-        public string returnValues()
+        string listenValues()
         {
             byte[] recibir_info = new byte[100];
             string data = "";
@@ -31,8 +30,15 @@ namespace Server
             array_size = conexion.Receive(recibir_info, 0, recibir_info.Length, 0);
             Array.Resize(ref recibir_info, array_size);
             data = Encoding.Default.GetString(recibir_info);
+            Console.WriteLine("La info es: {0}", data);
             return data;
         }
+
+
+
+        
+
+
 
     }
 }
