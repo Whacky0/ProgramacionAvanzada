@@ -7,6 +7,6 @@ namespace Juego
     public class IA
     {
         public List<Carta> cartasIA = new List<Carta>();
-        public int puntaje= new int();
+        public int puntaje= 0;
     }
 }

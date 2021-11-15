@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8p5dwQ1ftM5pRp/kwhs1HBb//7SuPmWPcpu74vc2UlixGiQz2MMffv7JBxadZPtNOat3aBLR5uJ+DtXTXP5rmQ==",
+  "dgSpecHash": "ISkQr25G3hOyZmEUeDv9aE7TqaRtVaAwFSjKfSKVW6/BDgEmY9UqdmjztDjs1GAAzKoDTm/oq/K8MUlS8Gdj4Q==",
   "success": true,
-  "projectFilePath": "F:\\repos\\TP-Programacion\\ProgramacionAvanzada\\Tp-Programacion\\Juego\\Juego.csproj",
+  "projectFilePath": "D:\\Descargas\\UAI\\Programacion avanzada\\Practica\\ProgramacionAvanzada\\Tp-Programacion\\Juego\\Juego.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\ezequ\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+    "C:\\Users\\ezequiel.correa_nybb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ezequiel.correa_nybb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ezequiel.correa_nybb\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }

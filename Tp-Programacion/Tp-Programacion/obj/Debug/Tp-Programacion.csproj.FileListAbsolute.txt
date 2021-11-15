@@ -37,3 +37,16 @@ F:\repos\TP-Programacion\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\bi
 F:\repos\TP-Programacion\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\bin\Debug\Juego.dll
 F:\repos\TP-Programacion\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\bin\Debug\Juego.pdb
 F:\repos\TP-Programacion\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\obj\Debug\Tp-Programacion.csproj.CopyComplete
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\bin\Debug\Tp-Programacion.exe.config
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\bin\Debug\Tp-Programacion.exe
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\bin\Debug\Tp-Programacion.pdb
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\bin\Debug\Juego.dll
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\bin\Debug\Juego.pdb
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\obj\Debug\Tp-Programacion.csproj.AssemblyReference.cache
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\obj\Debug\Tp_Programacion.Form1.resources
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\obj\Debug\Tp_Programacion.Properties.Resources.resources
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\obj\Debug\Tp-Programacion.csproj.GenerateResource.cache
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\obj\Debug\Tp-Programacion.csproj.CoreCompileInputs.cache
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\obj\Debug\Tp-Programacion.csproj.CopyComplete
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\obj\Debug\Tp-Programacion.exe
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Tp-Programacion\obj\Debug\Tp-Programacion.pdb

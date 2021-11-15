@@ -30,15 +30,9 @@ namespace Server
             array_size = conexion.Receive(recibir_info, 0, recibir_info.Length, 0);
             Array.Resize(ref recibir_info, array_size);
             data = Encoding.Default.GetString(recibir_info);
-            Console.WriteLine("La info es: {0}", data);
+            Console.WriteLine(data);
             return data;
         }
-
-
-
-        
-
-
 
     }
 }

@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Juego;
-
+using System.Data.SqlClient;
 
 namespace Tp_Programacion
 {
@@ -22,6 +22,7 @@ namespace Tp_Programacion
         PictureBox IACards = new PictureBox();
         PictureBox playerCards = new PictureBox();
 
+       int playerTurn=0;
         //search the index
         List <int> cardManager = new List< int>();
 
@@ -29,6 +30,10 @@ namespace Tp_Programacion
 
         IA ia;
         Jugador jugador;
+
+        Cliente cliente = new Cliente();
+        Jugada jugada = new Jugada();
+
 
         public Form1()
         {
@@ -163,37 +168,29 @@ namespace Tp_Programacion
             else if (jugada.puntoPlayer() == Jugada.resultPlayer.perdio)
             {
                 ia.puntaje++;
-                IAPuntaje.Text = ia.puntaje.ToString();
+                Player2Puntaje.Text = ia.puntaje.ToString();
             }
             else if (jugada.puntoPlayer() == Jugada.resultPlayer.empato)
             {
-                jugador.puntaje++;
-                ia.puntaje++;
-
                 playerPuntaje.Text = jugador.puntaje.ToString();
-                IAPuntaje.Text = ia.puntaje.ToString();
+                Player2Puntaje.Text = ia.puntaje.ToString();
             }
+            cliente.sendPointsPlayer1(jugador.puntaje,ia.puntaje);
 
         }
 
         private void display()
         {
-            //foreach (var card in cards)
-            //{
-            //    MessageBox.Show(card.Name);
-
-            //}
-
             IACards.Left=(200 + 250);
             playerCards.Left = (50 + 100);
             this.Controls.Add(IACards);
-            this.Controls.Add(playerCards);
-
-       
+            this.Controls.Add(playerCards);       
         }
 
         private void startGame()
         {
+            //server.startConnection();
+            cliente.startConnection();
             jugador.puntaje = 0;
             ia.puntaje = 0;
 
@@ -263,11 +260,27 @@ namespace Tp_Programacion
 
         private void deal_Click(object sender, EventArgs e)
         {
-            Jugada jugada = new Jugada();
-            IACard(jugada);
-            playerCard(jugada);
-            display();
-            jugadaMostrar(jugada);
+            if (playerTurn==0) {
+                playerCard(jugada);
+                display();
+                playerTurn = 1;
+                cliente.sendTurn(playerTurn);
+
+            }
         }
+
+        private void playPlayer2_Click(object sender, EventArgs e)
+        {
+            if (playerTurn==1) {
+                IACard(jugada);
+                display();
+                jugada.checkResult = true;
+                playerTurn = 0;
+                cliente.sendTurn(playerTurn);
+                jugadaMostrar(jugada);
+            }
+            
+        }
+
     }
 }

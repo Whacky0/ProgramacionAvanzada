@@ -7,6 +7,6 @@ namespace Juego
     public class Jugador
     {
         public List<Carta> cartasPlayer = new List<Carta>();
-        public int puntaje= new int();
+        public int puntaje= 0;
     }
 }

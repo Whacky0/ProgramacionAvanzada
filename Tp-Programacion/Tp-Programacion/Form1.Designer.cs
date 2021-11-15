@@ -31,7 +31,8 @@
             this.play = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.playerPuntaje = new System.Windows.Forms.Label();
-            this.IAPuntaje = new System.Windows.Forms.Label();
+            this.Player2Puntaje = new System.Windows.Forms.Label();
+            this.playPlayer2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // play
@@ -40,7 +41,7 @@
             this.play.Name = "play";
             this.play.Size = new System.Drawing.Size(97, 36);
             this.play.TabIndex = 4;
-            this.play.Text = "Play";
+            this.play.Text = "Play Player 1";
             this.play.UseVisualStyleBackColor = true;
             this.play.Click += new System.EventHandler(this.deal_Click);
             // 
@@ -62,21 +63,32 @@
             this.playerPuntaje.TabIndex = 6;
             this.playerPuntaje.Text = "Player";
             // 
-            // IAPuntaje
+            // Player2Puntaje
             // 
-            this.IAPuntaje.AutoSize = true;
-            this.IAPuntaje.Location = new System.Drawing.Point(370, 384);
-            this.IAPuntaje.Name = "IAPuntaje";
-            this.IAPuntaje.Size = new System.Drawing.Size(17, 13);
-            this.IAPuntaje.TabIndex = 7;
-            this.IAPuntaje.Text = "IA";
+            this.Player2Puntaje.AutoSize = true;
+            this.Player2Puntaje.Location = new System.Drawing.Point(370, 384);
+            this.Player2Puntaje.Name = "Player2Puntaje";
+            this.Player2Puntaje.Size = new System.Drawing.Size(42, 13);
+            this.Player2Puntaje.TabIndex = 7;
+            this.Player2Puntaje.Text = "Player2";
+            // 
+            // playPlayer2
+            // 
+            this.playPlayer2.Location = new System.Drawing.Point(691, 342);
+            this.playPlayer2.Name = "playPlayer2";
+            this.playPlayer2.Size = new System.Drawing.Size(97, 36);
+            this.playPlayer2.TabIndex = 8;
+            this.playPlayer2.Text = "Play Player 2";
+            this.playPlayer2.UseVisualStyleBackColor = true;
+            this.playPlayer2.Click += new System.EventHandler(this.playPlayer2_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.IAPuntaje);
+            this.Controls.Add(this.playPlayer2);
+            this.Controls.Add(this.Player2Puntaje);
             this.Controls.Add(this.playerPuntaje);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.play);
@@ -92,7 +104,8 @@
         private System.Windows.Forms.Button play;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label playerPuntaje;
-        private System.Windows.Forms.Label IAPuntaje;
+        private System.Windows.Forms.Label Player2Puntaje;
+        private System.Windows.Forms.Button playPlayer2;
     }
 }
 

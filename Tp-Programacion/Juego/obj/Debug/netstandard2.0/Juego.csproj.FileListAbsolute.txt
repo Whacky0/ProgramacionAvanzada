@@ -16,3 +16,12 @@ F:\repos\TP-Programacion\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\ne
 F:\repos\TP-Programacion\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.csproj.CoreCompileInputs.cache
 F:\repos\TP-Programacion\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.dll
 F:\repos\TP-Programacion\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.pdb
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Juego\bin\Debug\netstandard2.0\Juego.deps.json
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Juego\bin\Debug\netstandard2.0\Juego.dll
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Juego\bin\Debug\netstandard2.0\Juego.pdb
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.AssemblyInfoInputs.cache
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.AssemblyInfo.cs
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.csproj.CoreCompileInputs.cache
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.dll
+D:\Descargas\UAI\Programacion avanzada\Practica\ProgramacionAvanzada\Tp-Programacion\Juego\obj\Debug\netstandard2.0\Juego.pdb

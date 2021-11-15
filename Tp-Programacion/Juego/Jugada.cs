@@ -10,11 +10,13 @@ namespace Juego
         Jugador jugador = new Jugador();
         Carta cartaIA;
         Carta cartaPlayer;
+        public bool checkResult;
 
         public enum resultPlayer {gano, perdio, empato };
 
         public resultPlayer puntoPlayer()
         {
+            if (checkResult) { 
             try { 
                 if (cartaIA.Numero>cartaPlayer.Numero)
                 {
@@ -32,6 +34,7 @@ namespace Juego
             catch (NullReferenceException) {
 
             }
+            }
             return resultPlayer.empato;
 
         }
@@ -43,7 +46,7 @@ namespace Juego
         }
         public void jugadaPlayer(Carta cartaPlayer)
         {
-            if (cartaIA != null)
+            if (cartaPlayer != null)
                 this.cartaPlayer = cartaPlayer;
         }
     }
